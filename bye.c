@@ -4,6 +4,6 @@ struct {
 	int	n;
 } arr;
 int main(){
-	printf ("hello world!");
+	printf ("goodbye world!");
 	return 0;
 }
