@@ -1,3 +1,3 @@
-print ("hello")
-string = "hello"
-print string
+
+string = "world!"
+print "hello" + string
